@@ -3,37 +3,11 @@ CollectionStatsModel = {
     "ReleasedDate":"",   
     "TotalCardCount":0,
     "CardsByColorCombination":{
-        "Azorius":{},
-        "Dimir":{},
-        "Rakdos":{},
-        "Gruul":{},
-        "Selesnya":{},
-        "Orzhov":{},
-        "Izzet":{},
-        "Golgari":{},
-        "Boros":{},
-        "Simic":{},
-        "Bant":{},
-        "Esper":{},
-        "Grixis":{},
-        "Jund":{},
-        "Naya":{},
-        "Abzan":{},
-        "Jeskai":{},
-        "Sultai":{},
-        "Mardu":{},
-        "Temur":{},
-        "Glint":{},
-        "Dune":{},
-        "Ink":{},
-        "Witch":{},
-        "Yore":{},
-        # Urd is 5 color. 
-        # #I was going to do Ur due to the Ur Dragon, but figured it would be besty to 
-        # make a new term. rather than repeat Izzet.
-        "Urd":{}
-        },
-    "ColorIdentityAggregate":{
+        "Serra":[],
+        "Urza":[],
+        "Yawgmoth":[],
+        "Windgrace":[],
+        "Freyalise":[],
         "Azorius":[],
         "Dimir":[],
         "Rakdos":[],
@@ -62,7 +36,45 @@ CollectionStatsModel = {
         # Urd is 5 color. 
         # #I was going to do Ur due to the Ur Dragon, but figured it would be besty to 
         # make a new term. rather than repeat Izzet.
-        "Urd":[]
+        "Urd":[],
+        "Colorless":[]
+        },
+    "ColorIdentityAggregate":{
+        "Serra":[],
+        "Urza":[],
+        "Yawgmoth":[],
+        "Windgrace":[],
+        "Freyalise":[],
+        "Azorius":[],
+        "Dimir":[],
+        "Rakdos":[],
+        "Gruul":[],
+        "Selesnya":[],
+        "Orzhov":[],
+        "Izzet":[],
+        "Golgari":[],
+        "Boros":[],
+        "Simic":[],
+        "Bant":[],
+        "Esper":[],
+        "Grixis":[],
+        "Jund":[],
+        "Naya":[],
+        "Abzan":[],
+        "Jeskai":[],
+        "Sultai":[],
+        "Mardu":[],
+        "Temur":[],
+        "Glint":[],
+        "Dune":[],
+        "Ink":[],
+        "Witch":[],
+        "Yore":[],
+        # Urd is 5 color. 
+        # #I was going to do Ur due to the Ur Dragon, but figured it would be besty to 
+        # make a new term. rather than repeat Izzet.
+        "Urd":[],
+        "Colorless":[]
     },  
     "CardsByCMV":{
         "0":[],
