@@ -73,6 +73,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -97,7 +98,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13957,
+            "edhrec_rank": 13966,
             "preview": {
                 "source": "eSports.com",
                 "source_uri": "https://www.esports.com/de/magic-the-gathering-strixhaven-karten-vorschau-neue-optionen-fuer-rot-19",
@@ -107,7 +108,7 @@
                 "usd": "0.02",
                 "usd_foil": "0.07",
                 "eur": "0.05",
-                "eur_foil": "0.03",
+                "eur_foil": "0.02",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -190,6 +191,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -213,13 +215,13 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 17735,
+            "edhrec_rank": 17742,
             "prices": {
                 "usd": "0.09",
                 "usd_foil": "0.13",
-                "eur": "0.09",
-                "eur_foil": "0.05",
-                "tix": "0.01"
+                "eur": "0.16",
+                "eur_foil": "0.06",
+                "tix": "0.02"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513484",
@@ -300,6 +302,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -324,15 +327,15 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 5597,
+            "edhrec_rank": 5574,
             "preview": {
                 "source": "Marshall Sutcliffe",
                 "source_uri": "https://twitter.com/Marshall_LR/status/1377551417251045379",
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "0.13",
-                "usd_foil": "0.25",
+                "usd": "0.12",
+                "usd_foil": "0.24",
                 "eur": "0.14",
                 "eur_foil": "0.16",
                 "tix": "0.01"
@@ -426,6 +429,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -457,11 +461,11 @@
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "0.32",
+                "usd": "0.30",
                 "usd_foil": "0.45",
-                "eur": "0.13",
-                "eur_foil": "0.20",
-                "tix": "0.02"
+                "eur": "0.29",
+                "eur_foil": "0.40",
+                "tix": "0.01"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513596",
@@ -545,6 +549,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -570,7 +575,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14566,
+            "edhrec_rank": 14570,
             "preview": {
                 "source": "Face to Face Games",
                 "source_uri": "https://magic.facetofacegames.com/exclusive-strixhaven-spoiler-aether-helix/",
@@ -579,8 +584,8 @@
             "prices": {
                 "usd": "0.02",
                 "usd_foil": "0.11",
-                "eur": "0.05",
-                "eur_foil": "0.10",
+                "eur": "0.02",
+                "eur_foil": "0.13",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -665,6 +670,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -689,7 +695,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 19035,
+            "edhrec_rank": 19038,
             "preview": {
                 "source": "Eurogamer",
                 "source_uri": "https://www.eurogamer.net/articles/2021-03-29-revealing-some-brand-new-magic-the-gathering-strixhaven-cards",
@@ -784,6 +790,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -808,7 +815,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 17742,
+            "edhrec_rank": 17750,
             "prices": {
                 "usd": "0.01",
                 "usd_foil": "0.03",
@@ -900,6 +907,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -924,17 +932,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 1683,
+            "edhrec_rank": 1679,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
                 "previewed_at": "2021-03-25"
             },
             "prices": {
-                "usd": "2.21",
-                "usd_foil": "1.91",
-                "eur": "1.45",
-                "eur_foil": "1.76",
+                "usd": "2.06",
+                "usd_foil": "1.78",
+                "eur": "1.43",
+                "eur_foil": "2.24",
                 "tix": "0.09"
             },
             "related_uris": {
@@ -1020,6 +1028,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -1043,7 +1052,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9732,
+            "edhrec_rank": 9717,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -1138,6 +1147,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -1162,7 +1172,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 15248,
+            "edhrec_rank": 15155,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://cafe.naver.com/mtgkr?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30250607%2526articleid%3D2255%2526referrerAllArticles%3Dtrue",
@@ -1171,7 +1181,7 @@
             "prices": {
                 "usd": "0.02",
                 "usd_foil": "0.10",
-                "eur": "0.02",
+                "eur": "0.06",
                 "eur_foil": "0.03",
                 "tix": "0.01"
             },
@@ -1257,6 +1267,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -1281,7 +1292,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 18274,
+            "edhrec_rank": 18170,
             "preview": {
                 "source": "Bearded Husky",
                 "source_uri": "https://www.youtube.com/watch?v=k_vT4dVoCms",
@@ -1414,6 +1425,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -1436,17 +1448,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7561,
+            "edhrec_rank": 7566,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.instagram.com/p/CNF7aF1A6be/",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "0.35",
-                "usd_foil": "0.43",
-                "eur": "0.25",
-                "eur_foil": "0.32",
+                "usd": "0.30",
+                "usd_foil": "0.40",
+                "eur": "0.35",
+                "eur_foil": "0.50",
                 "tix": null
             },
             "related_uris": {
@@ -1529,6 +1541,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -1552,18 +1565,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 3694,
+            "edhrec_rank": 3682,
             "preview": {
                 "source": "Bearded Husky",
                 "source_uri": "https://www.youtube.com/watch?v=k_vT4dVoCms",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "1.29",
-                "usd_foil": "1.29",
-                "eur": "1.00",
-                "eur_foil": "1.47",
-                "tix": "0.81"
+                "usd": "1.47",
+                "usd_foil": "1.37",
+                "eur": "1.04",
+                "eur_foil": "1.56",
+                "tix": "0.80"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513541",
@@ -1645,6 +1658,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -1669,7 +1683,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14535,
+            "edhrec_rank": 14540,
             "prices": {
                 "usd": "0.13",
                 "usd_foil": "0.16",
@@ -1759,6 +1773,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -1783,7 +1798,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14926,
+            "edhrec_rank": 14932,
             "preview": {
                 "source": "Multiplayer.it",
                 "source_uri": "https://multiplayer.it/articoli/magic-the-gathering-strixhaven-quattro-carte-in-esclusiva.html",
@@ -1792,8 +1807,8 @@
             "prices": {
                 "usd": "0.10",
                 "usd_foil": "0.22",
-                "eur": "0.16",
-                "eur_foil": "0.13",
+                "eur": "0.08",
+                "eur_foil": "0.14",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -1876,6 +1891,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -1900,7 +1916,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10673,
+            "edhrec_rank": 10661,
             "preview": {
                 "source": "Eurogamer",
                 "source_uri": "https://www.eurogamer.net/articles/2021-03-29-revealing-some-brand-new-magic-the-gathering-strixhaven-cards",
@@ -1909,7 +1925,7 @@
             "prices": {
                 "usd": "0.03",
                 "usd_foil": "0.08",
-                "eur": "0.02",
+                "eur": "0.09",
                 "eur_foil": "0.11",
                 "tix": "0.01"
             },
@@ -2017,6 +2033,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -2044,18 +2061,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 2985,
+            "edhrec_rank": 2978,
             "preview": {
                 "source": "MTGGoldfish",
                 "source_uri": "https://www.mtggoldfish.com/spoilers/Strixhaven+School+of+Mages",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "15.46",
-                "usd_foil": "17.02",
-                "eur": "8.19",
-                "eur_foil": "8.49",
-                "tix": "6.57"
+                "usd": "14.97",
+                "usd_foil": "16.61",
+                "eur": "9.36",
+                "eur_foil": "9.49",
+                "tix": "6.31"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513655",
@@ -2137,6 +2154,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -2161,7 +2179,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13521,
+            "edhrec_rank": 13499,
             "prices": {
                 "usd": "0.01",
                 "usd_foil": "0.08",
@@ -2249,6 +2267,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -2273,7 +2292,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16035,
+            "edhrec_rank": 15901,
             "preview": {
                 "source": "Multiplayer.it",
                 "source_uri": "https://multiplayer.it/articoli/magic-the-gathering-strixhaven-quattro-carte-in-esclusiva.html",
@@ -2282,8 +2301,8 @@
             "prices": {
                 "usd": "0.01",
                 "usd_foil": "0.03",
-                "eur": "0.08",
-                "eur_foil": "0.02",
+                "eur": "0.05",
+                "eur_foil": "0.05",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -2388,6 +2407,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -2413,7 +2433,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9885,
+            "edhrec_rank": 9884,
             "preview": {
                 "source": "Martin J\u016fza",
                 "source_uri": "https://twitter.com/MartinJuza/status/1377401337726427137",
@@ -2423,7 +2443,7 @@
                 "usd": "0.01",
                 "usd_foil": "0.03",
                 "eur": "0.06",
-                "eur_foil": "0.12",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -2510,6 +2530,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -2535,18 +2556,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 6612,
+            "edhrec_rank": 6606,
             "preview": {
                 "source": "TCGplayer",
                 "source_uri": "https://infinite.tcgplayer.com/article/3-Exclusive-Lorehold-Previews-from-MTG-Strixhaven/a93c80c4-c0e7-469b-80eb-b7406ea4d065",
                 "previewed_at": "2021-03-29"
             },
             "prices": {
-                "usd": "0.48",
-                "usd_foil": "0.51",
-                "eur": "0.39",
-                "eur_foil": "0.10",
-                "tix": "0.08"
+                "usd": "0.49",
+                "usd_foil": "0.48",
+                "eur": "0.40",
+                "eur_foil": "0.25",
+                "tix": "0.10"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513657",
@@ -2665,6 +2686,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -2692,10 +2714,10 @@
             "story_spotlight": false,
             "edhrec_rank": 6866,
             "prices": {
-                "usd": "1.82",
-                "usd_foil": "1.81",
-                "eur": "1.82",
-                "eur_foil": "3.00",
+                "usd": "1.91",
+                "usd_foil": "1.87",
+                "eur": "2.06",
+                "eur_foil": "2.50",
                 "tix": null
             },
             "related_uris": {
@@ -2780,6 +2802,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -2804,7 +2827,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14674,
+            "edhrec_rank": 14679,
             "preview": {
                 "source": "eSports.com",
                 "source_uri": "https://www.esports.com/de/magic-the-gathering-strixhaven-karten-vorschau-neue-optionen-fuer-rot-19",
@@ -2814,7 +2837,7 @@
                 "usd": "0.02",
                 "usd_foil": "0.04",
                 "eur": "0.02",
-                "eur_foil": "0.02",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -2903,6 +2926,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -2928,7 +2952,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9144,
+            "edhrec_rank": 9132,
             "preview": {
                 "source": "BIG MAGIC",
                 "source_uri": "http://mtg.bigmagic.net/article/2021/04/preview/STX.html",
@@ -2937,7 +2961,7 @@
             "prices": {
                 "usd": "0.05",
                 "usd_foil": "0.11",
-                "eur": "0.09",
+                "eur": "0.12",
                 "eur_foil": "0.05",
                 "tix": "0.01"
             },
@@ -3041,6 +3065,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -3073,11 +3098,11 @@
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "2.06",
+                "usd": "1.93",
                 "usd_foil": "2.01",
-                "eur": "1.45",
-                "eur_foil": "1.96",
-                "tix": "3.67"
+                "eur": "1.20",
+                "eur_foil": "1.20",
+                "tix": "3.66"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513659",
@@ -3179,6 +3204,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -3204,17 +3230,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7093,
+            "edhrec_rank": 7106,
             "preview": {
                 "source": "AfterOfficeTTV",
                 "source_uri": "https://twitter.com/AfterTtv/status/1377363319003045890",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "1.83",
-                "usd_foil": "2.34",
-                "eur": "2.10",
-                "eur_foil": "1.90",
+                "usd": "1.88",
+                "usd_foil": "2.26",
+                "eur": "2.05",
+                "eur_foil": "3.00",
                 "tix": "2.41"
             },
             "related_uris": {
@@ -3301,6 +3327,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -3325,17 +3352,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13450,
+            "edhrec_rank": 13456,
             "preview": {
                 "source": "Lords of Limited",
                 "source_uri": "https://twitter.com/LordsofLimited/status/1377642704725811204",
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "0.03",
-                "usd_foil": "0.05",
-                "eur": "0.04",
-                "eur_foil": "0.06",
+                "usd": "0.04",
+                "usd_foil": "0.06",
+                "eur": "0.06",
+                "eur_foil": "0.05",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -3420,6 +3447,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -3444,7 +3472,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 15894,
+            "edhrec_rank": 15903,
             "preview": {
                 "source": "Thoughtsieze Interviews",
                 "source_uri": "https://twitter.com/_ThoughtSeize_/status/1378034656826818564",
@@ -3541,6 +3569,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -3565,7 +3594,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 18923,
+            "edhrec_rank": 18926,
             "prices": {
                 "usd": "0.02",
                 "usd_foil": "0.08",
@@ -3653,6 +3682,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -3677,7 +3707,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16038,
+            "edhrec_rank": 16041,
             "preview": {
                 "source": "GarbageAndy",
                 "source_uri": "https://twitter.com/Garbage_Andy/status/1376583547394342918",
@@ -3790,6 +3820,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -3814,18 +3845,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 6089,
+            "edhrec_rank": 6083,
             "preview": {
                 "source": "Sean Plott (Day9TV)",
                 "source_uri": "https://twitter.com/day9tv/status/1377999269769187328",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "0.25",
-                "usd_foil": "0.25",
-                "eur": "0.33",
-                "eur_foil": "0.32",
-                "tix": "0.13"
+                "usd": "0.22",
+                "usd_foil": "0.26",
+                "eur": "0.20",
+                "eur_foil": "0.20",
+                "tix": "0.14"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513543",
@@ -3905,6 +3936,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -3929,14 +3961,14 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13198,
+            "edhrec_rank": 13154,
             "preview": {
                 "source": "Jamie Topples",
                 "source_uri": "https://twitter.com/jamietopples/status/1376641097427001346",
                 "previewed_at": "2021-03-29"
             },
             "prices": {
-                "usd": "0.03",
+                "usd": "0.04",
                 "usd_foil": "0.06",
                 "eur": "0.05",
                 "eur_foil": "0.02",
@@ -4022,6 +4054,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -4046,17 +4079,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10730,
+            "edhrec_rank": 10689,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "0.05",
+                "usd": "0.06",
                 "usd_foil": "0.08",
-                "eur": "0.06",
-                "eur_foil": "0.12",
+                "eur": "0.03",
+                "eur_foil": "0.10",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -4143,6 +4176,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -4167,17 +4201,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14574,
+            "edhrec_rank": 14577,
             "preview": {
                 "source": "Jana Amari",
                 "source_uri": "https://www.youtube.com/watch?v=zfWaxD4kltc",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "0.68",
-                "usd_foil": "0.94",
-                "eur": "0.55",
-                "eur_foil": "0.95",
+                "usd": "0.67",
+                "usd_foil": "0.99",
+                "eur": "0.54",
+                "eur_foil": "1.87",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -4262,6 +4296,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -4287,7 +4322,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10054,
+            "edhrec_rank": 10034,
             "prices": {
                 "usd": "0.09",
                 "usd_foil": "0.10",
@@ -4386,6 +4421,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -4412,18 +4448,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7472,
+            "edhrec_rank": 7459,
             "preview": {
                 "source": "Deathsie",
                 "source_uri": "https://twitter.com/Deathsie/status/1376746353414537216",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "0.33",
-                "usd_foil": "0.43",
-                "eur": "0.20",
-                "eur_foil": "0.45",
-                "tix": "0.04"
+                "usd": "0.30",
+                "usd_foil": "0.41",
+                "eur": "0.27",
+                "eur_foil": "0.25",
+                "tix": "0.05"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513745",
@@ -4505,6 +4541,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -4529,7 +4566,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16742,
+            "edhrec_rank": 16815,
             "preview": {
                 "source": "Allie Alvis",
                 "source_uri": "https://twitter.com/book_historia/status/1377247340461981700",
@@ -4626,6 +4663,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -4650,7 +4688,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16149,
+            "edhrec_rank": 16100,
             "preview": {
                 "source": "TheHamTV",
                 "source_uri": "https://www.twitch.tv/videos/968567497",
@@ -4660,7 +4698,7 @@
                 "usd": "0.01",
                 "usd_foil": "0.05",
                 "eur": "0.02",
-                "eur_foil": "0.15",
+                "eur_foil": "0.06",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -4743,6 +4781,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -4767,18 +4806,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12678,
+            "edhrec_rank": 12593,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
                 "previewed_at": "2021-03-25"
             },
             "prices": {
-                "usd": "0.11",
+                "usd": "0.10",
                 "usd_foil": "0.21",
-                "eur": "0.04",
-                "eur_foil": "0.23",
-                "tix": "0.01"
+                "eur": "0.16",
+                "eur_foil": "0.18",
+                "tix": "0.02"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513544",
@@ -4862,6 +4901,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -4885,16 +4925,16 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 6373,
+            "edhrec_rank": 6361,
             "preview": {
                 "source": "eSports.com",
                 "source_uri": "https://www.esports.com/de/magic-the-gathering-strixhaven-karten-vorschau-neue-optionen-fuer-rot-19",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "0.34",
+                "usd": "0.33",
                 "usd_foil": "0.35",
-                "eur": "0.25",
+                "eur": "0.29",
                 "eur_foil": "0.23",
                 "tix": "0.03"
             },
@@ -4996,6 +5036,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -5021,16 +5062,16 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 11066,
+            "edhrec_rank": 11056,
             "preview": {
                 "source": "/r/MagicArena",
                 "source_uri": "https://www.reddit.com/r/MagicArena/comments/mijvpn/stx_daemogoth_titan_containment_breach/",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "0.10",
+                "usd": "0.08",
                 "usd_foil": "0.12",
-                "eur": "0.03",
+                "eur": "0.05",
                 "eur_foil": "0.03",
                 "tix": "0.01"
             },
@@ -5114,6 +5155,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -5138,18 +5180,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 4580,
+            "edhrec_rank": 4574,
             "preview": {
                 "source": "Air Bubbles Cosplay",
                 "source_uri": "https://twitter.com/AirBubbles/status/1377455821970235396?s=19",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "2.40",
-                "usd_foil": "2.32",
-                "eur": "1.72",
-                "eur_foil": "2.15",
-                "tix": "2.27"
+                "usd": "2.35",
+                "usd_foil": "2.33",
+                "eur": "1.52",
+                "eur_foil": "2.25",
+                "tix": "2.26"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513572",
@@ -5235,6 +5277,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -5260,7 +5303,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14537,
+            "edhrec_rank": 14502,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://twitter.com/Wizards_MagicBR/status/1378129671670398978",
@@ -5269,8 +5312,8 @@
             "prices": {
                 "usd": "0.05",
                 "usd_foil": "0.07",
-                "eur": "0.06",
-                "eur_foil": "0.06",
+                "eur": "0.05",
+                "eur_foil": "0.04",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -5373,6 +5416,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -5397,7 +5441,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10085,
+            "edhrec_rank": 10084,
             "preview": {
                 "source": "Mani Davoudi",
                 "source_uri": "https://twitter.com/Zapgaze/status/1376866964056907776",
@@ -5406,8 +5450,8 @@
             "prices": {
                 "usd": "0.07",
                 "usd_foil": "0.11",
-                "eur": "0.33",
-                "eur_foil": "0.10",
+                "eur": "0.06",
+                "eur_foil": "0.07",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -5490,6 +5534,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -5514,7 +5559,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10311,
+            "edhrec_rank": 10307,
             "preview": {
                 "source": "Bearded Husky",
                 "source_uri": "https://www.youtube.com/watch?v=k_vT4dVoCms",
@@ -5524,7 +5569,7 @@
                 "usd": "0.02",
                 "usd_foil": "0.04",
                 "eur": "0.10",
-                "eur_foil": "0.06",
+                "eur_foil": "0.09",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -5613,6 +5658,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -5638,13 +5684,13 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 2669,
+            "edhrec_rank": 2651,
             "prices": {
-                "usd": "2.16",
-                "usd_foil": "2.13",
-                "eur": "1.09",
-                "eur_foil": "1.71",
-                "tix": "0.12"
+                "usd": "1.95",
+                "usd_foil": "2.14",
+                "eur": "1.16",
+                "eur_foil": "1.50",
+                "tix": "0.15"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513664",
@@ -5746,6 +5792,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -5771,17 +5818,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 10099,
+            "edhrec_rank": 10090,
             "preview": {
                 "source": "Marshall Sutcliffe",
                 "source_uri": "https://twitter.com/Marshall_LR/status/1376957012370579461",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "0.15",
+                "usd": "0.18",
                 "usd_foil": "0.17",
-                "eur": "0.13",
-                "eur_foil": "0.10",
+                "eur": "0.50",
+                "eur_foil": "0.20",
                 "tix": "0.02"
             },
             "related_uris": {
@@ -5864,6 +5911,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -5888,7 +5936,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9417,
+            "edhrec_rank": 9415,
             "preview": {
                 "source": "Manda Henderson",
                 "source_uri": "https://twitter.com/_MandaHenderson/status/1376620986955620352",
@@ -5896,9 +5944,9 @@
             },
             "prices": {
                 "usd": "0.04",
-                "usd_foil": "0.10",
-                "eur": "0.06",
-                "eur_foil": "0.14",
+                "usd_foil": "0.11",
+                "eur": "0.02",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -5985,6 +6033,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6010,18 +6059,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8525,
+            "edhrec_rank": 8524,
             "preview": {
                 "source": "/r/MagicArena",
                 "source_uri": "https://www.reddit.com/r/MagicArena/comments/mijvpn/stx_daemogoth_titan_containment_breach/",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "0.36",
-                "usd_foil": "0.48",
-                "eur": "0.27",
-                "eur_foil": "0.40",
-                "tix": "0.02"
+                "usd": "0.38",
+                "usd_foil": "0.46",
+                "eur": "0.25",
+                "eur_foil": "0.25",
+                "tix": "0.01"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513666",
@@ -6107,6 +6156,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6132,17 +6182,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9145,
+            "edhrec_rank": 9154,
             "preview": {
                 "source": "Everyeye.it",
                 "source_uri": "https://www.everyeye.it/articoli/speciale-magic-strixhaven-presentiamo-nuova-carta-esclusiva-mondiale-52561.html",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "0.15",
+                "usd": "0.14",
                 "usd_foil": "0.24",
-                "eur": "0.06",
-                "eur_foil": "0.10",
+                "eur": "0.13",
+                "eur_foil": "0.09",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -6227,6 +6277,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6252,12 +6303,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 6110,
+            "edhrec_rank": 6102,
             "prices": {
-                "usd": "0.22",
+                "usd": "0.18",
                 "usd_foil": "0.25",
-                "eur": "0.11",
-                "eur_foil": "0.18",
+                "eur": "0.08",
+                "eur_foil": "0.19",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -6344,6 +6395,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6369,17 +6421,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7329,
+            "edhrec_rank": 7321,
             "preview": {
                 "source": "Markus Heitz",
                 "source_uri": "https://m.facebook.com/photo.php?fbid=282700626652354&id=100047372551277&set=a.243830503872700",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "0.20",
+                "usd": "0.18",
                 "usd_foil": "0.24",
-                "eur": "0.20",
-                "eur_foil": "0.31",
+                "eur": "0.23",
+                "eur_foil": "0.45",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -6462,6 +6514,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6486,7 +6539,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 16311,
+            "edhrec_rank": 16317,
             "preview": {
                 "source": "LordTupperware",
                 "source_uri": "https://twitter.com/lordtupperware/status/1376931035833892866",
@@ -6496,7 +6549,7 @@
                 "usd": "0.01",
                 "usd_foil": "0.02",
                 "eur": "0.02",
-                "eur_foil": "0.02",
+                "eur_foil": "0.05",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -6581,6 +6634,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6604,7 +6658,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16312,
+            "edhrec_rank": 16318,
             "preview": {
                 "source": "Lords of Limited",
                 "source_uri": "https://twitter.com/LordsofLimited/status/1377642691958296579",
@@ -6612,9 +6666,9 @@
             },
             "prices": {
                 "usd": "0.05",
-                "usd_foil": "0.10",
-                "eur": "0.20",
-                "eur_foil": "0.12",
+                "usd_foil": "0.09",
+                "eur": "0.05",
+                "eur_foil": "0.13",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -6697,6 +6751,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6720,12 +6775,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9260,
+            "edhrec_rank": 9244,
             "prices": {
                 "usd": "0.16",
                 "usd_foil": "0.19",
-                "eur": "0.19",
-                "eur_foil": "0.14",
+                "eur": "0.13",
+                "eur_foil": "0.27",
                 "tix": "0.02"
             },
             "related_uris": {
@@ -6808,6 +6863,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6832,7 +6888,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12093,
+            "edhrec_rank": 12051,
             "preview": {
                 "source": "Multiplayer.it",
                 "source_uri": "https://multiplayer.it/articoli/magic-the-gathering-strixhaven-quattro-carte-in-esclusiva.html",
@@ -6841,8 +6897,8 @@
             "prices": {
                 "usd": "0.04",
                 "usd_foil": "0.06",
-                "eur": "0.05",
-                "eur_foil": "0.09",
+                "eur": "0.49",
+                "eur_foil": "0.05",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -6929,6 +6985,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -6956,17 +7013,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 3494,
+            "edhrec_rank": 3481,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/bog-times-witherbloom-college-2021-04-02",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "0.23",
-                "usd_foil": "0.44",
-                "eur": "0.06",
-                "eur_foil": "0.23",
+                "usd": "0.21",
+                "usd_foil": "0.46",
+                "eur": "0.09",
+                "eur_foil": "0.22",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -7051,6 +7108,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -7075,12 +7133,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12554,
+            "edhrec_rank": 12560,
             "prices": {
                 "usd": "0.06",
-                "usd_foil": "0.14",
-                "eur": "0.04",
-                "eur_foil": "0.16",
+                "usd_foil": "0.13",
+                "eur": "0.05",
+                "eur_foil": "0.12",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -7165,6 +7223,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -7190,18 +7249,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 4126,
+            "edhrec_rank": 4114,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "1.75",
-                "usd_foil": "2.18",
-                "eur": "0.84",
-                "eur_foil": "0.80",
-                "tix": "0.09"
+                "usd": "1.48",
+                "usd_foil": "2.21",
+                "eur": "0.94",
+                "eur_foil": "0.94",
+                "tix": "0.08"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513671",
@@ -7283,6 +7342,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -7306,7 +7366,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 10167,
+            "edhrec_rank": 10177,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://cafe.naver.com/mtgkr?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30250607%2526articleid%3D2255%2526referrerAllArticles%3Dtrue",
@@ -7314,9 +7374,9 @@
             },
             "prices": {
                 "usd": "0.16",
-                "usd_foil": "0.19",
+                "usd_foil": "0.18",
                 "eur": "0.08",
-                "eur_foil": "0.20",
+                "eur_foil": "0.23",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -7399,6 +7459,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -7422,17 +7483,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7034,
+            "edhrec_rank": 7026,
             "preview": {
                 "source": "eSports.com",
                 "source_uri": "https://www.esports.com/de/magic-the-gathering-strixhaven-karten-vorschau-neue-optionen-fuer-rot-19",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "1.79",
-                "usd_foil": "2.30",
-                "eur": "0.79",
-                "eur_foil": "0.25",
+                "usd": "1.18",
+                "usd_foil": "1.44",
+                "eur": "0.22",
+                "eur_foil": "0.38",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -7519,6 +7580,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -7543,17 +7605,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10883,
+            "edhrec_rank": 10873,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
                 "previewed_at": "2021-03-25"
             },
             "prices": {
-                "usd": "0.23",
+                "usd": "0.24",
                 "usd_foil": "0.25",
-                "eur": "0.11",
-                "eur_foil": "0.12",
+                "eur": "0.17",
+                "eur_foil": "0.30",
                 "tix": "0.08"
             },
             "related_uris": {
@@ -7656,6 +7718,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -7681,12 +7744,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8488,
+            "edhrec_rank": 8491,
             "prices": {
-                "usd": "0.26",
-                "usd_foil": "0.27",
-                "eur": "0.24",
-                "eur_foil": "0.25",
+                "usd": "0.28",
+                "usd_foil": "0.28",
+                "eur": "0.23",
+                "eur_foil": "0.20",
                 "tix": "0.04"
             },
             "related_uris": {
@@ -7774,6 +7837,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -7797,12 +7861,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 18931,
+            "edhrec_rank": 18934,
             "prices": {
                 "usd": "0.08",
                 "usd_foil": "0.14",
-                "eur": "0.19",
-                "eur_foil": "0.20",
+                "eur": "0.10",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -7887,6 +7951,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -7910,7 +7975,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 15380,
+            "edhrec_rank": 15341,
             "preview": {
                 "source": "Eurogamer",
                 "source_uri": "https://www.eurogamer.net/articles/2021-03-29-revealing-some-brand-new-magic-the-gathering-strixhaven-cards",
@@ -7918,7 +7983,7 @@
             },
             "prices": {
                 "usd": "0.01",
-                "usd_foil": "0.06",
+                "usd_foil": "0.07",
                 "eur": "0.07",
                 "eur_foil": "0.02",
                 "tix": "0.01"
@@ -8007,6 +8072,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -8031,7 +8097,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 18402,
+            "edhrec_rank": 18403,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
@@ -8124,6 +8190,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -8147,18 +8214,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8207,
+            "edhrec_rank": 8192,
             "preview": {
                 "source": "\u30af\u30ed\u30bf\u30ab\u7d71\u7387\u8005[EDH]\u30c1\u30e3\u30f3\u30cd\u30eb",
                 "source_uri": "https://www.youtube.com/watch?v=ZAaHH2jy69U",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "1.10",
-                "usd_foil": "1.53",
-                "eur": "2.02",
-                "eur_foil": "1.94",
-                "tix": "2.09"
+                "usd": "1.26",
+                "usd_foil": "1.51",
+                "eur": "1.65",
+                "eur_foil": "2.70",
+                "tix": "2.08"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513605",
@@ -8244,6 +8311,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -8267,18 +8335,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8734,
+            "edhrec_rank": 8725,
             "preview": {
                 "source": "Mythic Meebo",
                 "source_uri": "https://twitter.com/MythicMeebo/status/1376555099896614915",
                 "previewed_at": "2021-03-29"
             },
             "prices": {
-                "usd": "0.23",
+                "usd": "0.22",
                 "usd_foil": "0.22",
-                "eur": "0.12",
-                "eur_foil": "0.34",
-                "tix": "0.01"
+                "eur": "0.09",
+                "eur_foil": "0.25",
+                "tix": "0.02"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513575",
@@ -8384,6 +8452,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -8408,12 +8477,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13993,
+            "edhrec_rank": 13998,
             "prices": {
                 "usd": "0.10",
                 "usd_foil": "0.19",
-                "eur": "0.08",
-                "eur_foil": "0.20",
+                "eur": "0.13",
+                "eur_foil": "0.25",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -8531,6 +8600,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -8556,7 +8626,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10062,
+            "edhrec_rank": 10051,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -8565,8 +8635,8 @@
             "prices": {
                 "usd": "0.01",
                 "usd_foil": "0.05",
-                "eur": "0.02",
-                "eur_foil": "0.10",
+                "eur": "0.09",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -8669,6 +8739,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -8694,7 +8765,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 17290,
+            "edhrec_rank": 17303,
             "preview": {
                 "source": "Corocoro",
                 "source_uri": "https://corocoro.jp/279032/",
@@ -8704,7 +8775,7 @@
                 "usd": "0.01",
                 "usd_foil": "0.06",
                 "eur": "0.02",
-                "eur_foil": "0.08",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -8791,6 +8862,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -8815,18 +8887,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10884,
+            "edhrec_rank": 10875,
             "preview": {
                 "source": "Paulo Vitor Damo da Rosa",
                 "source_uri": "https://twitter.com/PVDDR/status/1376318085817372674",
                 "previewed_at": "2021-03-28"
             },
             "prices": {
-                "usd": "3.12",
-                "usd_foil": "3.27",
-                "eur": "3.58",
-                "eur_foil": "8.74",
-                "tix": "3.36"
+                "usd": "2.69",
+                "usd_foil": "3.22",
+                "eur": "3.23",
+                "eur_foil": "3.50",
+                "tix": "2.89"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494",
@@ -8908,6 +8980,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -8932,17 +9005,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8770,
+            "edhrec_rank": 8766,
             "preview": {
                 "source": "Numot The Nummy",
                 "source_uri": "https://www.youtube.com/watch?v=4wDbOv3RwX8",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "0.14",
+                "usd": "0.13",
                 "usd_foil": "0.25",
-                "eur": "0.16",
-                "eur_foil": "0.23",
+                "eur": "0.26",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -9027,6 +9100,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9051,7 +9125,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13685,
+            "edhrec_rank": 13698,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -9140,6 +9214,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9164,17 +9239,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8151,
+            "edhrec_rank": 8137,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
                 "previewed_at": "2021-03-26"
             },
             "prices": {
-                "usd": "0.13",
+                "usd": "0.14",
                 "usd_foil": "0.22",
-                "eur": "0.05",
-                "eur_foil": "0.14",
+                "eur": "0.06",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -9257,6 +9332,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9281,7 +9357,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13599,
+            "edhrec_rank": 13540,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -9376,6 +9452,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9401,7 +9478,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 4719,
+            "edhrec_rank": 4713,
             "preview": {
                 "source": "Cedric Phillips",
                 "source_uri": "https://twitter.com/CedricAPhillips/status/1377301185716125698",
@@ -9410,8 +9487,8 @@
             "prices": {
                 "usd": "0.09",
                 "usd_foil": "0.16",
-                "eur": "0.10",
-                "eur_foil": "0.13",
+                "eur": "0.14",
+                "eur_foil": "0.05",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -9495,6 +9572,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9519,7 +9597,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 11973,
+            "edhrec_rank": 11944,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -9528,8 +9606,8 @@
             "prices": {
                 "usd": "0.03",
                 "usd_foil": "0.05",
-                "eur": "0.04",
-                "eur_foil": "0.10",
+                "eur": "0.25",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -9614,6 +9692,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9639,7 +9718,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13895,
+            "edhrec_rank": 13867,
             "preview": {
                 "source": "Mister Metronome",
                 "source_uri": "https://twitter.com/mistermetronome/status/1377753790355488771",
@@ -9728,6 +9807,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9752,7 +9832,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14725,
+            "edhrec_rank": 14732,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/feature/strixhaven-school-mages-mechanics-2021-03-25",
@@ -9761,8 +9841,8 @@
             "prices": {
                 "usd": "0.05",
                 "usd_foil": "0.05",
-                "eur": "0.03",
-                "eur_foil": "0.10",
+                "eur": "0.11",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -9845,6 +9925,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9869,17 +9950,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12764,
+            "edhrec_rank": 12763,
             "preview": {
                 "source": "QTCinderella",
                 "source_uri": "https://www.twitch.tv/videos/970585761",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "0.02",
+                "usd": "0.03",
                 "usd_foil": "0.09",
                 "eur": "0.02",
-                "eur_foil": "0.03",
+                "eur_foil": "0.19",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -9965,6 +10046,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -9989,7 +10071,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 13233,
+            "edhrec_rank": 13208,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://t.co/8ZR1Pg8CJu?amp=1",
@@ -9998,7 +10080,7 @@
             "prices": {
                 "usd": "0.01",
                 "usd_foil": "0.07",
-                "eur": "0.01",
+                "eur": "0.04",
                 "eur_foil": "0.13",
                 "tix": "0.01"
             },
@@ -10082,6 +10164,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -10113,10 +10196,10 @@
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "0.23",
-                "usd_foil": "0.28",
-                "eur": "0.24",
-                "eur_foil": "0.25",
+                "usd": "0.21",
+                "usd_foil": "0.27",
+                "eur": "0.18",
+                "eur_foil": "0.30",
                 "tix": "0.02"
             },
             "related_uris": {
@@ -10201,6 +10284,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -10226,18 +10310,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 4409,
+            "edhrec_rank": 4403,
             "preview": {
                 "source": "Corocoro",
                 "source_uri": "https://corocoro.jp/279032/",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "6.06",
-                "usd_foil": "8.37",
-                "eur": "3.01",
-                "eur_foil": "4.25",
-                "tix": "1.34"
+                "usd": "4.72",
+                "usd_foil": "8.41",
+                "eur": "3.07",
+                "eur_foil": "4.87",
+                "tix": "1.41"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513678",
@@ -10379,6 +10463,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -10405,17 +10490,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 5610,
+            "edhrec_rank": 5606,
             "preview": {
                 "source": "PowrDragn",
                 "source_uri": "https://twitter.com/powrdragn/status/1376927296758509568",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "2.23",
-                "usd_foil": "3.04",
-                "eur": "2.55",
-                "eur_foil": "3.85",
+                "usd": "2.15",
+                "usd_foil": "3.03",
+                "eur": "2.26",
+                "eur_foil": "2.98",
                 "tix": null
             },
             "related_uris": {
@@ -10503,6 +10588,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -10527,7 +10613,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14378,
+            "edhrec_rank": 14323,
             "preview": {
                 "source": "Bearded Husky",
                 "source_uri": "https://www.youtube.com/watch?v=k_vT4dVoCms",
@@ -10536,8 +10622,8 @@
             "prices": {
                 "usd": "0.16",
                 "usd_foil": "0.21",
-                "eur": "0.06",
-                "eur_foil": "0.07",
+                "eur": "0.09",
+                "eur_foil": "0.11",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -10620,6 +10706,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -10643,17 +10730,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7983,
+            "edhrec_rank": 7950,
             "preview": {
                 "source": "Amy the Amazonian",
                 "source_uri": "https://twitter.com/coL_Amazonian/status/1377296266049298441",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "0.13",
-                "usd_foil": "0.22",
-                "eur": "0.12",
-                "eur_foil": "0.20",
+                "usd": "0.15",
+                "usd_foil": "0.21",
+                "eur": "0.11",
+                "eur_foil": "0.18",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -10738,6 +10825,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -10761,17 +10849,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12094,
+            "edhrec_rank": 12105,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
                 "previewed_at": "2021-03-26"
             },
             "prices": {
-                "usd": "0.04",
+                "usd": "0.05",
                 "usd_foil": "0.15",
-                "eur": "0.08",
-                "eur_foil": "0.05",
+                "eur": "0.05",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -10856,6 +10944,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -10879,16 +10968,16 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12435,
+            "edhrec_rank": 12397,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/feature/strixhaven-school-mages-mechanics-2021-03-25",
                 "previewed_at": "2021-03-26"
             },
             "prices": {
-                "usd": "0.09",
+                "usd": "0.07",
                 "usd_foil": "0.11",
-                "eur": "0.17",
+                "eur": "0.04",
                 "eur_foil": "0.13",
                 "tix": "0.01"
             },
@@ -11010,6 +11099,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11032,7 +11122,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7719,
+            "edhrec_rank": 7694,
             "preview": {
                 "source": "nessameowmeow",
                 "source_uri": "https://www.twitch.tv/nessameowmeow",
@@ -11040,8 +11130,8 @@
             },
             "prices": {
                 "usd": "0.20",
-                "usd_foil": "0.30",
-                "eur": "0.18",
+                "usd_foil": "0.27",
+                "eur": "0.23",
                 "eur_foil": "0.23",
                 "tix": null
             },
@@ -11125,6 +11215,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11149,7 +11240,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16456,
+            "edhrec_rank": 16463,
             "prices": {
                 "usd": "0.03",
                 "usd_foil": "0.09",
@@ -11238,6 +11329,7 @@
             "promo": false,
             "reprint": true,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11262,10 +11354,10 @@
             "booster": true,
             "story_spotlight": false,
             "prices": {
-                "usd": "0.06",
+                "usd": "0.07",
                 "usd_foil": "0.07",
-                "eur": "0.06",
-                "eur_foil": "0.23",
+                "eur": "0.04",
+                "eur_foil": "0.11",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -11348,6 +11440,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11372,12 +11465,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12529,
+            "edhrec_rank": 12537,
             "prices": {
                 "usd": "0.05",
                 "usd_foil": "0.07",
-                "eur": "0.10",
-                "eur_foil": "0.25",
+                "eur": "0.02",
+                "eur_foil": "0.20",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -11480,6 +11573,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11505,7 +11599,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13688,
+            "edhrec_rank": 13700,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://twitter.com/mtgjp/status/1377185609916149761",
@@ -11513,9 +11607,9 @@
             },
             "prices": {
                 "usd": "0.02",
-                "usd_foil": "0.10",
-                "eur": "0.04",
-                "eur_foil": "0.02",
+                "usd_foil": "0.09",
+                "eur": "0.02",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -11600,6 +11694,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11625,12 +11720,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 2505,
+            "edhrec_rank": 2495,
             "prices": {
-                "usd": "0.68",
+                "usd": "0.64",
                 "usd_foil": "0.68",
-                "eur": "0.80",
-                "eur_foil": "1.04",
+                "eur": "0.76",
+                "eur_foil": "1.07",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -11716,6 +11811,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11741,18 +11837,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 3284,
+            "edhrec_rank": 3275,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
                 "previewed_at": "2021-03-25"
             },
             "prices": {
-                "usd": "1.81",
-                "usd_foil": "1.70",
-                "eur": "1.80",
-                "eur_foil": "1.73",
-                "tix": "0.59"
+                "usd": "1.80",
+                "usd_foil": "1.79",
+                "eur": "1.45",
+                "eur_foil": "1.56",
+                "tix": "0.58"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513757",
@@ -11838,6 +11934,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11862,7 +11959,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14886,
+            "edhrec_rank": 14853,
             "preview": {
                 "source": "CovertGoBlue",
                 "source_uri": "https://twitter.com/covertgoblue/status/1376992675291881477",
@@ -11872,7 +11969,7 @@
                 "usd": "0.01",
                 "usd_foil": "0.03",
                 "eur": "0.04",
-                "eur_foil": "0.03",
+                "eur_foil": "0.05",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -11957,6 +12054,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -11981,14 +12079,14 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 11463,
+            "edhrec_rank": 11453,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "0.03",
+                "usd": "0.02",
                 "usd_foil": "0.04",
                 "eur": "0.02",
                 "eur_foil": "0.25",
@@ -12077,6 +12175,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -12102,18 +12201,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 4055,
+            "edhrec_rank": 4051,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
                 "previewed_at": "2021-03-25"
             },
             "prices": {
-                "usd": "1.41",
-                "usd_foil": "1.44",
-                "eur": "1.03",
-                "eur_foil": "1.50",
-                "tix": "0.44"
+                "usd": "1.34",
+                "usd_foil": "1.48",
+                "eur": "1.40",
+                "eur_foil": "1.49",
+                "tix": "0.41"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513758",
@@ -12226,6 +12325,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -12253,18 +12353,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 5252,
+            "edhrec_rank": 5242,
             "preview": {
                 "source": "Eric Rodr\u00edguez",
                 "source_uri": "https://twitter.com/EricRod_LYV/status/1376912106780385291",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "8.05",
-                "usd_foil": "10.20",
-                "eur": "7.95",
-                "eur_foil": "10.75",
-                "tix": "6.31"
+                "usd": "8.00",
+                "usd_foil": "10.08",
+                "eur": "8.37",
+                "eur_foil": "9.40",
+                "tix": "6.15"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513681",
@@ -12351,6 +12451,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -12375,7 +12476,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16261,
+            "edhrec_rank": 16214,
             "preview": {
                 "source": "Ali Aintrazi",
                 "source_uri": "https://twitter.com/AliEldrazi/status/1377790153180258308?s=20",
@@ -12384,9 +12485,9 @@
             "prices": {
                 "usd": "0.13",
                 "usd_foil": "0.18",
-                "eur": "0.23",
+                "eur": "0.02",
                 "eur_foil": "0.18",
-                "tix": "0.03"
+                "tix": "0.01"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513610",
@@ -12468,6 +12569,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -12492,7 +12594,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 11862,
+            "edhrec_rank": 11796,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -12501,8 +12603,8 @@
             "prices": {
                 "usd": "0.10",
                 "usd_foil": "0.13",
-                "eur": "0.06",
-                "eur_foil": "0.25",
+                "eur": "0.16",
+                "eur_foil": "0.11",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -12587,6 +12689,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -12612,12 +12715,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8129,
+            "edhrec_rank": 8116,
             "prices": {
                 "usd": "0.05",
                 "usd_foil": "0.12",
                 "eur": "0.05",
-                "eur_foil": "0.05",
+                "eur_foil": "0.23",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -12706,6 +12809,7 @@
             "promo": false,
             "reprint": true,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -12730,12 +12834,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 4765,
+            "edhrec_rank": 4763,
             "prices": {
-                "usd": "0.03",
+                "usd": "0.05",
                 "usd_foil": "0.06",
-                "eur": "0.02",
-                "eur_foil": "0.40",
+                "eur": "0.06",
+                "eur_foil": "0.02",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -12820,6 +12924,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -12844,11 +12949,11 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14982,
+            "edhrec_rank": 14941,
             "prices": {
-                "usd": "0.03",
+                "usd": "0.04",
                 "usd_foil": "0.05",
-                "eur": "0.02",
+                "eur": "0.04",
                 "eur_foil": "0.05",
                 "tix": "0.01"
             },
@@ -12936,6 +13041,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -12960,7 +13066,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16604,
+            "edhrec_rank": 16540,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -12969,8 +13075,8 @@
             "prices": {
                 "usd": "0.11",
                 "usd_foil": "0.12",
-                "eur": "0.10",
-                "eur_foil": "0.10",
+                "eur": "0.05",
+                "eur_foil": "0.20",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -13057,6 +13163,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -13080,18 +13187,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7513,
+            "edhrec_rank": 7509,
             "preview": {
                 "source": "Adrian Lee",
                 "source_uri": "https://twitter.com/teLEEcaster/status/1377077948902150148",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "0.29",
+                "usd": "0.28",
                 "usd_foil": "0.38",
-                "eur": "0.15",
-                "eur_foil": "0.20",
-                "tix": "0.02"
+                "eur": "0.26",
+                "eur_foil": "0.92",
+                "tix": "0.01"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513759",
@@ -13175,6 +13282,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -13200,17 +13308,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8826,
+            "edhrec_rank": 8814,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "1.15",
+                "usd": "1.23",
                 "usd_foil": "1.67",
-                "eur": "1.48",
-                "eur_foil": "2.20",
+                "eur": "1.13",
+                "eur_foil": "2.03",
                 "tix": "2.27"
             },
             "related_uris": {
@@ -13293,6 +13401,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -13317,7 +13426,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14096,
+            "edhrec_rank": 14028,
             "preview": {
                 "source": "TaaliaVess",
                 "source_uri": "https://twitter.com/TaaliaVess/status/1376570673787772933",
@@ -13327,7 +13436,7 @@
                 "usd": "0.02",
                 "usd_foil": "0.06",
                 "eur": "0.02",
-                "eur_foil": "0.02",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -13414,6 +13523,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -13441,17 +13551,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 6366,
+            "edhrec_rank": 6367,
             "preview": {
                 "source": "Drawfee",
                 "source_uri": "https://www.youtube.com/watch?v=Sl2Yn2yFRMA",
                 "previewed_at": "2021-03-29"
             },
             "prices": {
-                "usd": "1.55",
-                "usd_foil": "1.41",
-                "eur": "1.36",
-                "eur_foil": "2.80",
+                "usd": "1.56",
+                "usd_foil": "1.37",
+                "eur": "1.37",
+                "eur_foil": "1.83",
                 "tix": "3.41"
             },
             "related_uris": {
@@ -13538,6 +13648,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -13562,12 +13673,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 6732,
+            "edhrec_rank": 6718,
             "prices": {
                 "usd": "0.06",
                 "usd_foil": "0.09",
-                "eur": "0.05",
-                "eur_foil": "0.39",
+                "eur": "0.02",
+                "eur_foil": "0.30",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -13652,6 +13763,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -13677,7 +13789,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13346,
+            "edhrec_rank": 13349,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://twitter.com/MagicEsports/status/1377744071733604353",
@@ -13685,9 +13797,9 @@
             },
             "prices": {
                 "usd": "0.09",
-                "usd_foil": "0.14",
-                "eur": "0.05",
-                "eur_foil": "0.03",
+                "usd_foil": "0.15",
+                "eur": "0.07",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -13790,6 +13902,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -13814,16 +13927,16 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 11465,
+            "edhrec_rank": 11472,
             "preview": {
                 "source": "Mike Sigrist",
                 "source_uri": "https://twitter.com/MSigrist83/status/1377984941598855176",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "0.09",
+                "usd": "0.08",
                 "usd_foil": "0.09",
-                "eur": "0.02",
+                "eur": "0.05",
                 "eur_foil": "0.25",
                 "tix": "0.01"
             },
@@ -13909,6 +14022,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -13933,14 +14047,14 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16268,
+            "edhrec_rank": 16273,
             "preview": {
                 "source": "Bloody",
                 "source_uri": "https://twitter.com/Bloody/status/1376927573763096578",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "0.03",
+                "usd": "0.04",
                 "usd_foil": "0.09",
                 "eur": "0.03",
                 "eur_foil": "0.20",
@@ -14044,6 +14158,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -14069,18 +14184,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10069,
+            "edhrec_rank": 10052,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/strixhaven-part-1-2021-03-29",
                 "previewed_at": "2021-03-29"
             },
             "prices": {
-                "usd": "0.11",
+                "usd": "0.10",
                 "usd_foil": "0.16",
-                "eur": "0.12",
-                "eur_foil": "0.20",
-                "tix": "0.01"
+                "eur": "0.05",
+                "eur_foil": "0.10",
+                "tix": "0.02"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513585",
@@ -14182,6 +14297,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -14207,7 +14323,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 17082,
+            "edhrec_rank": 17089,
             "preview": {
                 "source": "Rei Sato",
                 "source_uri": "https://twitter.com/r_0310/status/1376693245724356608",
@@ -14302,6 +14418,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -14327,7 +14444,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7627,
+            "edhrec_rank": 7622,
             "preview": {
                 "source": "Commander Rules Committee",
                 "source_uri": "https://mtgcommander.net/index.php/2021/04/02/strixhaven-previews/",
@@ -14336,8 +14453,8 @@
             "prices": {
                 "usd": "0.07",
                 "usd_foil": "0.16",
-                "eur": "0.03",
-                "eur_foil": "0.20",
+                "eur": "0.06",
+                "eur_foil": "0.07",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -14440,6 +14557,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -14463,13 +14581,13 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10045,
+            "edhrec_rank": 10053,
             "prices": {
-                "usd": "0.15",
+                "usd": "0.14",
                 "usd_foil": "0.19",
-                "eur": "0.10",
-                "eur_foil": "0.20",
-                "tix": "0.01"
+                "eur": "0.16",
+                "eur_foil": "0.15",
+                "tix": "0.02"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513521",
@@ -14571,6 +14689,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -14596,7 +14715,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16931,
+            "edhrec_rank": 16939,
             "preview": {
                 "source": "Marshall Sutcliffe",
                 "source_uri": "https://twitter.com/Marshall_LR/status/1377551417251045379",
@@ -14606,7 +14725,7 @@
                 "usd": "0.03",
                 "usd_foil": "0.05",
                 "eur": "0.02",
-                "eur_foil": "0.10",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -14685,6 +14804,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -14709,7 +14829,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8056,
+            "edhrec_rank": 8062,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.youtube.com/watch?v=8T8hrORB1ws",
@@ -14718,8 +14838,8 @@
             "prices": {
                 "usd": "0.10",
                 "usd_foil": "0.12",
-                "eur": "0.03",
-                "eur_foil": "0.25",
+                "eur": "0.10",
+                "eur_foil": "0.12",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -14800,6 +14920,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -14824,16 +14945,16 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10259,
+            "edhrec_rank": 10238,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.youtube.com/watch?v=8T8hrORB1ws",
                 "previewed_at": "2021-03-26"
             },
             "prices": {
-                "usd": "0.07",
+                "usd": "0.06",
                 "usd_foil": "0.10",
-                "eur": "0.03",
+                "eur": "0.07",
                 "eur_foil": "0.15",
                 "tix": "0.01"
             },
@@ -14918,6 +15039,7 @@
             "promo": false,
             "reprint": true,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -14944,8 +15066,8 @@
             "prices": {
                 "usd": "0.08",
                 "usd_foil": "0.07",
-                "eur": "0.08",
-                "eur_foil": "0.09",
+                "eur": "0.07",
+                "eur_foil": "0.25",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -15066,6 +15188,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -15091,16 +15214,16 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 6428,
+            "edhrec_rank": 6432,
             "preview": {
                 "source": "MTGGoldfish",
                 "source_uri": "https://www.mtggoldfish.com/spoilers/Strixhaven+School+of+Mages",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "1.24",
-                "usd_foil": "2.48",
-                "eur": "2.18",
+                "usd": "1.38",
+                "usd_foil": "2.44",
+                "eur": "2.08",
                 "eur_foil": "2.99",
                 "tix": null
             },
@@ -15188,6 +15311,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -15212,7 +15336,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 15576,
+            "edhrec_rank": 15585,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://twitter.com/mtgjp/status/1377184097701822465",
@@ -15221,7 +15345,7 @@
             "prices": {
                 "usd": "0.03",
                 "usd_foil": "0.06",
-                "eur": "0.09",
+                "eur": "0.02",
                 "eur_foil": "0.05",
                 "tix": "0.01"
             },
@@ -15328,6 +15452,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -15351,18 +15476,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8030,
+            "edhrec_rank": 8019,
             "preview": {
                 "source": "Sean Plott (Day9TV)",
                 "source_uri": "https://twitter.com/day9tv/status/1374027397905874944",
                 "previewed_at": "2021-03-22"
             },
             "prices": {
-                "usd": "2.86",
-                "usd_foil": "2.92",
-                "eur": "3.80",
+                "usd": "2.55",
+                "usd_foil": "2.87",
+                "eur": "4.28",
                 "eur_foil": "3.80",
-                "tix": "3.18"
+                "tix": "3.21"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513688",
@@ -15446,6 +15571,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -15470,7 +15596,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 10680,
+            "edhrec_rank": 10628,
             "preview": {
                 "source": "Skybilz",
                 "source_uri": "https://twitter.com/Skybilz/status/1377055652166696966",
@@ -15478,9 +15604,9 @@
             },
             "prices": {
                 "usd": "0.11",
-                "usd_foil": "0.18",
-                "eur": "0.05",
-                "eur_foil": "0.20",
+                "usd_foil": "0.20",
+                "eur": "0.15",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -15621,6 +15747,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -15646,7 +15773,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13399,
+            "edhrec_rank": 13403,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "",
@@ -15655,8 +15782,8 @@
             "prices": {
                 "usd": "0.19",
                 "usd_foil": "0.22",
-                "eur": "0.23",
-                "eur_foil": "0.15",
+                "eur": "0.17",
+                "eur_foil": "0.17",
                 "tix": null
             },
             "related_uris": {
@@ -15746,6 +15873,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -15774,17 +15902,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7370,
+            "edhrec_rank": 7365,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/971754838",
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "0.21",
+                "usd": "0.23",
                 "usd_foil": "0.29",
-                "eur": "0.07",
-                "eur_foil": "0.50",
+                "eur": "0.15",
+                "eur_foil": "0.35",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -15867,6 +15995,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -15891,7 +16020,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16846,
+            "edhrec_rank": 16850,
             "preview": {
                 "source": "TheAsianAvenger",
                 "source_uri": "https://twitter.com/Theasianavenger/status/1378171268566974464",
@@ -15901,7 +16030,7 @@
                 "usd": "0.02",
                 "usd_foil": "0.06",
                 "eur": "0.16",
-                "eur_foil": "0.18",
+                "eur_foil": "0.06",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -15986,6 +16115,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -16010,7 +16140,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16691,
+            "edhrec_rank": 16615,
             "preview": {
                 "source": "LadyLavinias",
                 "source_uri": "https://twitter.com/LadyLavinias/status/1378026627574202372",
@@ -16107,6 +16237,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -16131,16 +16262,16 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9701,
+            "edhrec_rank": 9713,
             "preview": {
                 "source": "MMCast",
                 "source_uri": "https://www.youtube.com/watch?v=_H7MzUoyrKo",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "0.65",
-                "usd_foil": "0.76",
-                "eur": "0.61",
+                "usd": "0.63",
+                "usd_foil": "0.83",
+                "eur": "0.72",
                 "eur_foil": "1.41",
                 "tix": "0.25"
             },
@@ -16227,6 +16358,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -16251,11 +16383,11 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 8132,
+            "edhrec_rank": 8110,
             "prices": {
                 "usd": "0.04",
                 "usd_foil": "0.06",
-                "eur": "0.03",
+                "eur": "0.02",
                 "eur_foil": "0.10",
                 "tix": "0.01"
             },
@@ -16357,6 +16489,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -16382,7 +16515,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12789,
+            "edhrec_rank": 12740,
             "preview": {
                 "source": "Markus Heitz",
                 "source_uri": "https://m.facebook.com/photo.php?fbid=282700626652354&id=100047372551277&set=a.243830503872700",
@@ -16481,6 +16614,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -16506,7 +16640,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13000,
+            "edhrec_rank": 12977,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
@@ -16515,7 +16649,7 @@
             "prices": {
                 "usd": "0.02",
                 "usd_foil": "0.05",
-                "eur": "0.03",
+                "eur": "0.04",
                 "eur_foil": "0.03",
                 "tix": "0.01"
             },
@@ -16604,6 +16738,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -16629,7 +16764,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 5630,
+            "edhrec_rank": 5624,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/strixhaven-part-1-2021-03-29",
@@ -16638,8 +16773,8 @@
             "prices": {
                 "usd": "0.05",
                 "usd_foil": "0.12",
-                "eur": "0.03",
-                "eur_foil": "0.18",
+                "eur": "0.13",
+                "eur_foil": "0.02",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -16742,6 +16877,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -16766,13 +16902,13 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7036,
+            "edhrec_rank": 7028,
             "prices": {
-                "usd": "0.25",
+                "usd": "0.24",
                 "usd_foil": "0.31",
-                "eur": "0.23",
-                "eur_foil": "0.28",
-                "tix": "0.04"
+                "eur": "0.28",
+                "eur_foil": "0.25",
+                "tix": "0.05"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513691",
@@ -16876,6 +17012,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -16900,7 +17037,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9988,
+            "edhrec_rank": 9983,
             "preview": {
                 "source": "Nizzahon Magic",
                 "source_uri": "https://www.youtube.com/watch?v=ahb1zHr75LM",
@@ -16909,8 +17046,8 @@
             "prices": {
                 "usd": "0.03",
                 "usd_foil": "0.10",
-                "eur": "0.07",
-                "eur_foil": "0.25",
+                "eur": "0.03",
+                "eur_foil": "0.14",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -17000,6 +17137,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -17025,7 +17163,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 17590,
+            "edhrec_rank": 17597,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/strixhaven-part-1-2021-03-29",
@@ -17035,7 +17173,7 @@
                 "usd": "0.01",
                 "usd_foil": "0.05",
                 "eur": "0.06",
-                "eur_foil": "0.15",
+                "eur_foil": "0.02",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -17124,6 +17262,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -17149,7 +17288,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12078,
+            "edhrec_rank": 12086,
             "preview": {
                 "source": "Formato For Fun",
                 "source_uri": "https://www.youtube.com/watch?v=fi1GiKe9NSs",
@@ -17158,7 +17297,7 @@
             "prices": {
                 "usd": "0.05",
                 "usd_foil": "0.08",
-                "eur": "0.02",
+                "eur": "0.03",
                 "eur_foil": "0.03",
                 "tix": "0.01"
             },
@@ -17244,6 +17383,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -17268,7 +17408,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 15580,
+            "edhrec_rank": 15647,
             "preview": {
                 "source": "Travis Sowers\n",
                 "source_uri": "https://twitter.com/Semulin/status/1378082675026710530",
@@ -17363,6 +17503,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -17387,7 +17528,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12927,
+            "edhrec_rank": 12908,
             "preview": {
                 "source": "MTGNexus",
                 "source_uri": "https://www.mtgnexus.com/articles/1099-strixhaven-preview-mage-hunter",
@@ -17480,6 +17621,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -17504,7 +17646,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 14654,
+            "edhrec_rank": 14658,
             "preview": {
                 "source": "Ruu",
                 "source_uri": "https://twitter.com/Ruu_TV/status/1378113286693093378",
@@ -17514,7 +17656,7 @@
                 "usd": "0.02",
                 "usd_foil": "0.05",
                 "eur": "0.10",
-                "eur_foil": "0.04",
+                "eur_foil": "0.03",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -17625,6 +17767,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -17649,18 +17792,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 7587,
+            "edhrec_rank": 7588,
             "preview": {
                 "source": "Lee Shi Tian",
                 "source_uri": "https://twitter.com/leearson/status/1376800005554544643/photo/1",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "2.22",
-                "usd_foil": "3.02",
-                "eur": "2.64",
+                "usd": "2.24",
+                "usd_foil": "2.98",
+                "eur": "2.07",
                 "eur_foil": "3.30",
-                "tix": "6.91"
+                "tix": "6.95"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513695",
@@ -17762,6 +17905,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -17787,7 +17931,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13261,
+            "edhrec_rank": 13190,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -17795,9 +17939,9 @@
             },
             "prices": {
                 "usd": "0.03",
-                "usd_foil": "0.07",
-                "eur": "0.02",
-                "eur_foil": "0.10",
+                "usd_foil": "0.06",
+                "eur": "0.04",
+                "eur_foil": "0.02",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -17902,6 +18046,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -17927,17 +18072,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12310,
+            "edhrec_rank": 12315,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/how-large-will-your-fractal-be-2021-03-31",
                 "previewed_at": "2021-03-31"
             },
             "prices": {
-                "usd": "0.13",
+                "usd": "0.14",
                 "usd_foil": "0.16",
-                "eur": "0.16",
-                "eur_foil": "0.15",
+                "eur": "0.03",
+                "eur_foil": "0.27",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -18050,6 +18195,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -18074,18 +18220,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14584,
+            "edhrec_rank": 14589,
             "preview": {
                 "source": "Miguel Simoes",
                 "source_uri": "https://twitter.com/edmvyrus_/status/1377651959335882753",
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "0.37",
-                "usd_foil": "0.46",
-                "eur": "0.48",
-                "eur_foil": "0.35",
-                "tix": "3.31"
+                "usd": "0.40",
+                "usd_foil": "0.49",
+                "eur": "0.42",
+                "eur_foil": "0.41",
+                "tix": "3.29"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513481",
@@ -18167,6 +18313,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -18191,7 +18338,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 15745,
+            "edhrec_rank": 15814,
             "preview": {
                 "source": "Lords of Limited",
                 "source_uri": "https://twitter.com/LordsofLimited/status/1377642695301152772",
@@ -18200,7 +18347,7 @@
             "prices": {
                 "usd": "0.01",
                 "usd_foil": "0.07",
-                "eur": "0.04",
+                "eur": "0.05",
                 "eur_foil": "0.03",
                 "tix": "0.01"
             },
@@ -18288,6 +18435,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -18312,7 +18460,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14352,
+            "edhrec_rank": 14358,
             "preview": {
                 "source": "B\u00ea Turba",
                 "source_uri": "https://twitter.com/Beturba/status/1376640707679686657",
@@ -18320,9 +18468,9 @@
             },
             "prices": {
                 "usd": "0.04",
-                "usd_foil": "0.08",
+                "usd_foil": "0.07",
                 "eur": "0.03",
-                "eur_foil": "0.07",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -18409,6 +18557,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -18435,18 +18584,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8849,
+            "edhrec_rank": 8833,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/971754838",
                 "previewed_at": "2021-04-01"
             },
             "prices": {
-                "usd": "1.21",
-                "usd_foil": "1.75",
-                "eur": "1.27",
-                "eur_foil": "0.73",
-                "tix": "3.38"
+                "usd": "1.25",
+                "usd_foil": "1.73",
+                "eur": "1.90",
+                "eur_foil": "1.50",
+                "tix": "3.42"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513498",
@@ -18530,6 +18679,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -18554,7 +18704,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 12277,
+            "edhrec_rank": 12263,
             "preview": {
                 "source": "Lords of Limited",
                 "source_uri": "https://twitter.com/LordsofLimited/status/1377642701609439234",
@@ -18563,7 +18713,7 @@
             "prices": {
                 "usd": "0.03",
                 "usd_foil": "0.11",
-                "eur": "0.02",
+                "eur": "0.05",
                 "eur_foil": "0.26",
                 "tix": "0.01"
             },
@@ -18647,6 +18797,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -18671,11 +18822,11 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 18106,
+            "edhrec_rank": 18110,
             "prices": {
                 "usd": "0.02",
                 "usd_foil": "0.11",
-                "eur": "0.03",
+                "eur": "0.12",
                 "eur_foil": "0.20",
                 "tix": "0.01"
             },
@@ -18813,6 +18964,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -18835,7 +18987,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8001,
+            "edhrec_rank": 7998,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/971754838",
@@ -18843,9 +18995,9 @@
             },
             "prices": {
                 "usd": "2.08",
-                "usd_foil": "2.51",
-                "eur": "2.93",
-                "eur_foil": "3.94",
+                "usd_foil": "2.44",
+                "eur": "4.23",
+                "eur_foil": "3.40",
                 "tix": null
             },
             "related_uris": {
@@ -18935,6 +19087,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -18960,7 +19113,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 15349,
+            "edhrec_rank": 15355,
             "preview": {
                 "source": "Kanata",
                 "source_uri": "https://twitter.com/Chanel_Kanata/status/1377801167854571524",
@@ -18969,8 +19122,8 @@
             "prices": {
                 "usd": "0.01",
                 "usd_foil": "0.08",
-                "eur": "0.01",
-                "eur_foil": "0.03",
+                "eur": "0.05",
+                "eur_foil": "0.17",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -19055,6 +19208,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -19080,17 +19234,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 3514,
+            "edhrec_rank": 3508,
             "preview": {
                 "source": "Gabriel Nassif",
                 "source_uri": "https://www.twitch.tv/videos/973064240?t=00h11m43s",
                 "previewed_at": "2021-04-03"
             },
             "prices": {
-                "usd": "0.24",
+                "usd": "0.21",
                 "usd_foil": "0.26",
-                "eur": "0.25",
-                "eur_foil": "0.30",
+                "eur": "0.19",
+                "eur_foil": "0.09",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -19174,6 +19328,7 @@
             "promo": false,
             "reprint": true,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -19198,9 +19353,9 @@
             "booster": true,
             "story_spotlight": false,
             "prices": {
-                "usd": "0.10",
-                "usd_foil": "0.08",
-                "eur": "0.08",
+                "usd": "0.09",
+                "usd_foil": "0.09",
+                "eur": "0.09",
                 "eur_foil": "0.03",
                 "tix": "0.01"
             },
@@ -19304,6 +19459,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -19328,18 +19484,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8752,
+            "edhrec_rank": 8713,
             "preview": {
                 "source": "Andr\u00e9 Manenti",
                 "source_uri": "https://twitter.com/AndreManentii/status/1376923124344754181",
                 "previewed_at": "2021-03-30"
             },
             "prices": {
-                "usd": "0.21",
+                "usd": "0.26",
                 "usd_foil": "0.22",
-                "eur": "0.17",
+                "eur": "0.21",
                 "eur_foil": "0.30",
-                "tix": "0.01"
+                "tix": "0.02"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513525",
@@ -19424,6 +19580,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -19449,18 +19606,18 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 3612,
+            "edhrec_rank": 3605,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
                 "previewed_at": "2021-03-25"
             },
             "prices": {
-                "usd": "2.26",
-                "usd_foil": "2.23",
-                "eur": "1.57",
-                "eur_foil": "1.89",
-                "tix": "0.43"
+                "usd": "2.27",
+                "usd_foil": "2.22",
+                "eur": "1.61",
+                "eur_foil": "2.12",
+                "tix": "0.36"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513761",
@@ -19542,6 +19699,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -19566,12 +19724,12 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14549,
+            "edhrec_rank": 14440,
             "prices": {
                 "usd": "0.08",
-                "usd_foil": "0.07",
-                "eur": "0.06",
-                "eur_foil": "0.09",
+                "usd_foil": "0.08",
+                "eur": "0.20",
+                "eur_foil": "0.10",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -19661,6 +19819,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -19686,7 +19845,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14697,
+            "edhrec_rank": 14702,
             "preview": {
                 "source": "Rapha Hauer-King",
                 "source_uri": "https://www.youtube.com/watch?v=eNvidlTiz7o",
@@ -19695,7 +19854,7 @@
             "prices": {
                 "usd": "0.05",
                 "usd_foil": "0.09",
-                "eur": "0.05",
+                "eur": "0.29",
                 "eur_foil": "0.15",
                 "tix": "0.01"
             },
@@ -19781,6 +19940,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -19805,7 +19965,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 14989,
+            "edhrec_rank": 14995,
             "preview": {
                 "source": "Lords of Limited",
                 "source_uri": "https://twitter.com/LordsofLimited/status/1377642691958296579",
@@ -19905,6 +20065,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -19930,7 +20091,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 19597,
+            "edhrec_rank": 19601,
             "preview": {
                 "source": "Five Color Hub",
                 "source_uri": "https://twitter.com/FiveColorHub/status/1377095412113240064",
@@ -19940,7 +20101,7 @@
                 "usd": "0.02",
                 "usd_foil": "0.05",
                 "eur": "0.02",
-                "eur_foil": "0.02",
+                "eur_foil": "0.05",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -20025,6 +20186,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -20049,13 +20211,13 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 6386,
+            "edhrec_rank": 6396,
             "prices": {
-                "usd": "0.39",
-                "usd_foil": "0.41",
-                "eur": "0.26",
-                "eur_foil": "0.39",
-                "tix": "0.01"
+                "usd": "0.38",
+                "usd_foil": "0.42",
+                "eur": "0.30",
+                "eur_foil": "0.28",
+                "tix": "0.02"
             },
             "related_uris": {
                 "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513557",
@@ -20142,6 +20304,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -20165,16 +20328,16 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13219,
+            "edhrec_rank": 13246,
             "preview": {
                 "source": "John Roberts II",
                 "source_uri": "https://twitter.com/JdoubleR2/status/1377969063389896705",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "0.02",
+                "usd": "0.03",
                 "usd_foil": "0.08",
-                "eur": "0.28",
+                "eur": "0.15",
                 "eur_foil": "0.12",
                 "tix": "0.01"
             },
@@ -20265,6 +20428,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -20290,7 +20454,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 18632,
+            "edhrec_rank": 18636,
             "preview": {
                 "source": "Bandit",
                 "source_uri": "https://twitter.com/BanditMTG1/status/1377517819802353664",
@@ -20438,6 +20602,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -20460,17 +20625,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8050,
+            "edhrec_rank": 8051,
             "preview": {
                 "source": "BIG MAGIC",
                 "source_uri": "http://mtg.bigmagic.net/article/2021/04/preview/STX.html",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "0.19",
+                "usd": "0.20",
                 "usd_foil": "0.22",
-                "eur": "0.23",
-                "eur_foil": "0.25",
+                "eur": "0.10",
+                "eur_foil": "0.20",
                 "tix": null
             },
             "related_uris": {
@@ -20573,6 +20738,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -20598,17 +20764,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 9638,
+            "edhrec_rank": 9625,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
                 "previewed_at": "2021-03-25"
             },
             "prices": {
-                "usd": "0.08",
+                "usd": "0.07",
                 "usd_foil": "0.10",
                 "eur": "0.03",
-                "eur_foil": "0.05",
+                "eur_foil": "0.15",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -20691,6 +20857,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -20715,7 +20882,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 16349,
+            "edhrec_rank": 16350,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/strixhaven",
@@ -20810,6 +20977,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -20833,7 +21001,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 11497,
+            "edhrec_rank": 11477,
             "preview": {
                 "source": "Draftism",
                 "source_uri": "https://draftsim.com/mtg-strixhaven-preview-cards/",
@@ -20843,7 +21011,7 @@
                 "usd": "0.03",
                 "usd_foil": "0.11",
                 "eur": "0.02",
-                "eur_foil": "0.04",
+                "eur_foil": "0.05",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -20930,6 +21098,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -20954,7 +21123,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13331,
+            "edhrec_rank": 13303,
             "preview": {
                 "source": "The Mana Leek",
                 "source_uri": "https://twitter.com/themanaleek/status/1377977626262900736",
@@ -20962,7 +21131,7 @@
             },
             "prices": {
                 "usd": "0.01",
-                "usd_foil": "0.05",
+                "usd_foil": "0.04",
                 "eur": "0.02",
                 "eur_foil": "0.02",
                 "tix": "0.01"
@@ -21051,6 +21220,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -21075,7 +21245,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 13006,
+            "edhrec_rank": 12955,
             "preview": {
                 "source": "TitanSmashMTG",
                 "source_uri": "https://www.youtube.com/watch?v=3mZgXkIIbjI",
@@ -21169,6 +21339,7 @@
             "promo": false,
             "reprint": true,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -21196,7 +21367,7 @@
                 "usd": "0.07",
                 "usd_foil": "0.08",
                 "eur": "0.08",
-                "eur_foil": "0.03",
+                "eur_foil": "0.11",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -21318,6 +21489,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -21343,17 +21515,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 8481,
+            "edhrec_rank": 8460,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "",
                 "previewed_at": "2021-03-26"
             },
             "prices": {
-                "usd": "0.21",
+                "usd": "0.20",
                 "usd_foil": "0.25",
-                "eur": "0.15",
-                "eur_foil": "0.40",
+                "eur": "0.25",
+                "eur_foil": "0.32",
                 "tix": null
             },
             "related_uris": {
@@ -21436,6 +21608,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -21460,17 +21633,17 @@
             "textless": false,
             "booster": true,
             "story_spotlight": true,
-            "edhrec_rank": 2744,
+            "edhrec_rank": 2729,
             "preview": {
                 "source": "Alan M\u00e9ndez",
                 "source_uri": "https://twitter.com/ArreadorOficial/status/1377796720252293123",
                 "previewed_at": "2021-04-02"
             },
             "prices": {
-                "usd": "1.58",
-                "usd_foil": "1.77",
-                "eur": "0.31",
-                "eur_foil": "0.69",
+                "usd": "1.41",
+                "usd_foil": "1.75",
+                "eur": "0.22",
+                "eur_foil": "0.60",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -21556,6 +21729,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -21579,7 +21753,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 12208,
+            "edhrec_rank": 12195,
             "preview": {
                 "source": "Mike Sigrist",
                 "source_uri": "https://twitter.com/MSigrist83/status/1377993346535325704",
@@ -21588,8 +21762,8 @@
             "prices": {
                 "usd": "0.14",
                 "usd_foil": "0.16",
-                "eur": "0.07",
-                "eur_foil": "0.89",
+                "eur": "0.10",
+                "eur_foil": "0.20",
                 "tix": "0.01"
             },
             "related_uris": {
@@ -21674,6 +21848,7 @@
             "promo": false,
             "reprint": false,
             "variation": false,
+            "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
             "set": "stx",
             "set_name": "Strixhaven: School of Mages",
             "set_type": "expansion",
@@ -21698,7 +21873,7 @@
             "textless": false,
             "booster": true,
             "story_spotlight": false,
-            "edhrec_rank": 15815,
+            "edhrec_rank": 15822,
             "preview": {
                 "source": "Wizards of the Coast",
                 "source_uri": "https://www.twitch.tv/videos/962571609",
