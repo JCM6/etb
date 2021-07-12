@@ -5,13 +5,8 @@ import gzip
 import factory.models.collection_models as collection_models
 import factory.models.regex_patterns as patterns
 
-# Pulled from the source JSON
-def GenerateTotalCardCount(_loadedCardSet):
 
-    TotalCardCount = _loadedCardSet["total_cards"]
-
-    return TotalCardCount
-
+## Color Combination Functions ##
 # Color Combinations can be from 1-5 characters in length.
 def GenerateCardColorCombination(_loadedCard):
     
@@ -31,7 +26,7 @@ def GenerateCardColorCombination(_loadedCard):
     
     return CardColorCombinationEntry
 
-# Generates a list of cards with a color combination abbreviations
+# Generates a list of cards with a color combination abbreviations.
 def GenerateCardsByColorCombinationRaw(_loadedCards):
 
     ColorCombinationDictionaryRaw = {}
@@ -74,6 +69,67 @@ def GenerateCardsByColorCombination(_processedColorCombinationDictionary):
 
     return GenerateCardsByColorCombinationDictionary
 
+
+
+
+## Color Identity Functions ##
+# Get a card's color identity.
+def GenerateCardColorIdentityAggregate(_loadedCard):
+    CardColorIdentityAggregate = ""
+
+    # Not all cards have a color identity.
+    
+    if _loadedCard.get("color_identity") != None:
+        for color in _loadedCard["color_identity"]:
+                CardColorIdentityAggregate = CardColorIdentityAggregate + (color)
+    else:
+        CardColorIdentityAggregate = ""
+
+    CardColorCombinationEntry = [CardColorIdentityAggregate, _loadedCard["id"]]
+    return CardColorCombinationEntry
+
+# Generate a list of cards with color identity abbreviations.
+def GenerateCardsColorIdentityAggregate(_loadedCards):
+
+    CardColorIdentityAggregateDictionaryRaw = {}
+    for card in _loadedCards["data"]:
+
+        Entry = GenerateCardColorIdentityAggregate(_loadedCard=card)
+
+        colorKey = str(Entry[0])
+        cardId = str(Entry[1])
+
+        if colorKey in CardColorIdentityAggregateDictionaryRaw.keys():
+            CardColorIdentityAggregateDictionaryRaw[colorKey].append(cardId)
+        else:
+            CardColorIdentityAggregateDictionaryRaw[colorKey] = []
+            CardColorIdentityAggregateDictionaryRaw[colorKey].append(cardId)
+
+    return CardColorIdentityAggregateDictionaryRaw
+
+# Generates a sorted list of cards by matchin color identity names.
+def GenerateCardColorIdentityAggregates(_processedCardColorIdentityAggregatesDictionary):
+
+    GeneratedCardColorIdentityAggregatesDictionary = {}
+
+
+    colorPatternKeys = patterns.ColorRegexPatterns.keys()
+    processedPattern = _processedCardColorIdentityAggregatesDictionary.keys()
+
+    for pattern in colorPatternKeys:
+        p = re.compile(patterns.ColorRegexPatterns[pattern], re.IGNORECASE)
+
+        for processedCombo in processedPattern:
+            if p.match(processedCombo):
+                entry = _processedCardColorIdentityAggregatesDictionary.get(processedCombo)
+                GeneratedCardColorIdentityAggregatesDictionary[pattern] = entry
+
+    return GeneratedCardColorIdentityAggregatesDictionary
+
+
+
+
+## Functions for saving and loading files ##
 # Loads the source json set file that has been downloaded from scryfall.
 def LoadDownloadedJson(_jsonPath):
 
@@ -108,6 +164,8 @@ def ExpandGZIPJson(_incomingGzipPath):
         
         compressedFile.close()
 
+        readFile = json.loads(readFile)
+
         CompletionMessage = "Opening compressed file completed successfully."
 
     except():
@@ -117,24 +175,26 @@ def ExpandGZIPJson(_incomingGzipPath):
     return [CompletionMessage, readFile]
 
 # Converts an expanded json.gzip file into a dictionary.
-def LoadExpandedGZIPJson(_incomingJson):
-    ExpandedGZIPDictionary = json.loads(_incomingJson[1])
+def LoadExpandedGZIPJson(_incomingGZIPJson):
+    ExpandedGZIPDictionary = json.loads(_incomingGZIPJson[1])
     return ExpandedGZIPDictionary
 
+
+## Stats block
+# Pulls the total card count for a set from the source JSON.
+def GenerateTotalCardCount(_loadedCardSet):
+
+    TotalCardCount = _loadedCardSet["total_cards"]
+
+    return TotalCardCount
+
+##
 # Builds the final collection stats model for saving an later distribution.
 def BuildCollectionStats(_loadedJson):
-    CompleatedCollectionStatsModel = collection_models.CollectionStatsModel
-    return CompleatedCollectionStatsModel
+    CompleatedCollectionStatsModel = collection_models.CollectionStatsModel()
+    CompleatedCollectionStatsModel.ColorIdentityAggregate = GenerateCardColorIdentityAggregates(_processedCardColorIdentityAggregatesDictionary=GenerateCardsColorIdentityAggregate(_loadedCards=_loadedJson))
+    
+    return CompleatedCollectionStatsModel.ColorIdentityAggregate
 
-# print(
-#     json.dumps(
-#         GenerateCardsByColorCombination(
-#             _processedColorCombinationDictionary=GenerateCardsByColorCombinationRaw(
-#                 _loadedCards=LoadDownloadedJson(_jsonPath="C:\\Users\\jeffrey.moody\\Documents\\GitHub\\etb\\exportJSON.json")
-#             )
-#         ), indent=4
-#     )
-# )
 
-# GZIPDownloadedJson(_incomingJsonPath="C:\\Users\\jeffrey.moody\\Documents\\GitHub\\etb\\exportJSON.json")
-# print(json.dumps(json.loads(ExpandGZIPJson(_incomingGzipPath="C:\\Users\\jeffrey.moody\\Documents\\GitHub\\etb\\compressed.json.gzip")[1]), indent=4))
+print(BuildCollectionStats(_loadedJson=ExpandGZIPJson(_incomingGzipPath="C:\\Users\\jeffrey.moody\\Documents\\GitHub\\etb\\compressed.json.gzip")[1]))
