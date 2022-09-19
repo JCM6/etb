@@ -94,26 +94,29 @@ CollectionStatsModelTemplate = {
             "15":[],
             "16+":[]
         },
-        "CardsBySuperType":{
-            "Basic":[],
-            "Legendary":[],
-            "Ongoing":[],
-            "Snow":[],
-            "World":[]
-        },
+        "CardsByCost":{},
+        # "CardsBySuperType":{
+        #     "Basic":[],
+        #     "Legendary":[],
+        #     "Ongoing":[],
+        #     "Snow":[],
+        #     "World":[]
+        # },
         "CardsByType":{
-            "Artifacts":[], 
-            "Creatures":[], 
-            "Enchantments":[], 
-            "Instants":[], 
-            "Lands":[], 
-            "Planeswalkers":[], 
-            "Sorceries":[], 
-            "Tribals":[], 
-            "Planes":[], 
-            "PhenomenaVanguards":[], 
-            "Schemes":[], 
-            "Conspiracies":[]
+            "Artifact":[], 
+            # Creatures are build during the process of creating the model.
+            # "Creature":[], 
+            "Enchantment":[], 
+            "Instant":[], 
+            "Land":[], 
+            # Planeswalkers are built during the model's creation
+            #  "Planeswalker":[], 
+            "Sorcery":[], 
+            "Tribal":[], 
+            "Plane":[], 
+            "PhenomenaVanguard":[], 
+            "Scheme":[], 
+            "Conspiracy":[]
         },
         "CardsByPowerValue":{
             "None":[],
@@ -178,12 +181,13 @@ CollectionStatsModelTemplate = {
             "False":[]
         },
         "OracleTextLength":{
-            "0":[],
-            "1-59":[],
-            "60-119":[],
-            "120-239":[],
-            "240-279":[],
-            "280+":[]
+            # I think it would be better to generate these thresholds from the data.
+            # "0":[],
+            # "1-59":[],
+            # "60-119":[],
+            # "120-239":[],
+            # "240-279":[],
+            # "280+":[]
         },
         "KeywordActionAggregate":{
             "Meld":[],
@@ -400,7 +404,8 @@ CollectionStatsModelTemplate = {
             "Buyback":[],
             "Ward":[],
             "Demonstrate":[]
-        }
+        },
+        "CardNames":{}
 }
 
 class CollectionStatsModel(object):
