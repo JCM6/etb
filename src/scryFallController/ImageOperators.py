@@ -108,7 +108,7 @@ def Wildcard2(image):
 
     return outputImage
 
-def SingleImageFlow(imageName, displayResults):
+def SingleImageFlow(imageName, displayResults, saveResults):
 
     fileDir = f'src\\scryfall_artcrops\\{imageName}.jpg'
 
@@ -146,12 +146,23 @@ def SingleImageFlow(imageName, displayResults):
         vibranced.show()
         
         wild.show()
+    
+    if saveResults == True:
+        im.save(f"src\\images\\{imageName}_base.jpg")
+        resized.save(f"src\\images\\{imageName}_resized.jpg")
+        shifted.save(f"src\\images\\{imageName}_shifted.jpg")
+        flipped.save(f"src\\images\\{imageName}_flipped.jpg")
+        colorMedian.save(f"src\\images\\{imageName}_colorMedian.jpg")
+        desaturated.save(f"src\\images\\{imageName}_desaturated.jpg")
+        vibranced.save(f"src\\images\\{imageName}_vibranced.jpg")
+        wild.save(f"src\\images\\{imageName}_wild.jpg")
+
 
     return
 
 def TEST_FlowforSingleImage(imageName):
 
-    SingleImageFlow(imageName=imageName, displayResults=True)
+    SingleImageFlow(imageName=imageName, displayResults=True, saveResults=True)
 
     
 if __name__ == "__main__":
