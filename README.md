@@ -9,3 +9,5 @@ Steps to Setup the Project:
     - This will prep images for image classification.
     - Resizes, and creates permutations.
 3. Run: 
+
+prepping repo
