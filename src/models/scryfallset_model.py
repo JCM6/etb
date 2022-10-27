@@ -1,5 +1,5 @@
 ## Example Card Data Structure:
-{
+m = {
     "object": "list",
     "total_cards": 280,
     "has_more": True,
